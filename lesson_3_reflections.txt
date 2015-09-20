@@ -13,3 +13,6 @@ What is the benefit of having a copy of the last known state of the remote store
 	
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 	try an online drive or something, it will be harder to track the commit histories
+	
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+	when you want to try something new and still not pretty sure that it's going to work fine so you create a branch so you don't mess up the master branch.
